@@ -107,7 +107,6 @@ mediapipe==0.10.14
 missingno==0.5.2
 mistune==3.0.2
 ml-dtypes==0.3.2
-msvc_runtime==14.40.33807
 mtcnn==0.1.1
 multitasking==0.0.11
 murmurhash==1.0.11
