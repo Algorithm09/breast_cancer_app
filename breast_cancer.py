@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import pandas as pd
 import pickle
 import streamlit as st
@@ -116,5 +116,4 @@ if pred == 1:
 
 else:
        st.write(pred)
->>>>>>> 60f4eee828a708f8b14f5a1bc0ee170a5e24ab3b
        st.info("The patient is non cancerous")
